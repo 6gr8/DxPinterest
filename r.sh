@@ -1,0 +1,1 @@
+dpkg -r densor
